@@ -1,0 +1,15 @@
+{
+	"name": "babel-preset-react-app-defaulting-to-dev",
+	"version": "0.0.1",
+	"description": "Project babel-preset-react-app-defaulting-to-dev",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"devDependencies": {
+		"prettier": "latest"
+	},
+	"keywords": [],
+	"author": "",
+	"license": "MIT"
+}
