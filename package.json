@@ -3,11 +3,12 @@
 	"version": "0.0.1",
 	"description": "Project babel-preset-react-app-defaulting-to-dev",
 	"main": "index.js",
-	"scripts": {
-		"test": "echo \"Error: no test specified\" && exit 1"
-	},
 	"devDependencies": {
-		"prettier": "latest"
+		"prettier": "latest",
+		"babel-preset-react-app": "^6.1.0"
+	},
+	"peerDependencies": {
+		"babel-preset-react-app": "^6"
 	},
 	"keywords": [],
 	"author": "",
